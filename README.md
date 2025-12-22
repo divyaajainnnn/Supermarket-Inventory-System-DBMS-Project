@@ -30,28 +30,6 @@ The database design follows standard DBMS principles such as:
 
 ---
 
-## Objectives of the Project
-
-The main objectives of this project are:
-
-- To design a relational database for managing supermarket data  
-- To represent real-world relationships between products, suppliers, stores, and customers  
-- To support inventory tracking at the store and SKU level  
-- To manage sales orders and purchase transactions  
-- To apply DBMS concepts such as normalization, keys, and constraints  
-
----
-
-## Major Functional Areas Covered
-
-- Product and SKU management  
-- Store and inventory (stock) tracking  
-- Supplier and purchase order handling  
-- Sales order processing  
-- Customer and employee data management  
-
----
-
 ## Group Details
 
 **Project Title:** Supermarket Inventory System  
