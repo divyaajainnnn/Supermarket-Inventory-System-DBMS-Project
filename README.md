@@ -8,10 +8,10 @@ The project focuses on designing a relational database that supports core superm
 
 ## Files Included
 
-- **supermarket_project.sql**  
+- **supermarket_databse.sql**  
   Contains the complete SQL schema with table definitions, primary keys, foreign keys, constraints, and relationships.
 
-- **supermarket_ER_diagram.mwb**  
+- **supermarket_database ER.mwb**  
   ER diagram representing entities and relationships used in the database design.
 
 ---
